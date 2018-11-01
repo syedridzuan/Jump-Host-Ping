@@ -1,0 +1,79 @@
+
+2018-11-01 14:16:28,806 Script start time: 1541052988.81
+2018-11-01 14:17:49,283 Script start time: 1541053069.28
+2018-11-01 14:17:49,306 Initiliaze telegram bot
+2018-11-01 14:17:49,306 ERX: GRXCBJ01
+2018-11-01 14:17:49,505 Connected (version 2.0, client OpenSSH_5.8)
+2018-11-01 14:17:50,121 Auth banner: 
+********************************************************
+*                 [WARNING]                            *
+* If you are not authorized to access this system,     *
+* exit immediately. Unauthorized access to this        *
+* system is forbidden by company policies, national,   *
+* and international laws. Unauthorized users are       *
+* subject to criminal and civil penalties as well      *
+* as company initiated disciplinary proceedings.       *
+*                                                      *
+* By entry into this system you acknowledge that you   *
+* are authorized access and the level of privilege you *
+* subsequently execute on this system. You further     *
+* acknowledge that by entry into this system you       *
+* expect no privacy from monitoring.                   *
+********************************************************
+
+
+2018-11-01 14:17:50,121 Authentication (password) successful!
+2018-11-01 14:18:27,249 Script start time: 1541053107.25
+2018-11-01 14:18:27,269 Initiliaze telegram bot
+2018-11-01 14:18:27,269 ERX: GRXCBJ01
+2018-11-01 14:18:27,398 Connected (version 2.0, client OpenSSH_5.8)
+2018-11-01 14:18:28,049 Auth banner: 
+********************************************************
+*                 [WARNING]                            *
+* If you are not authorized to access this system,     *
+* exit immediately. Unauthorized access to this        *
+* system is forbidden by company policies, national,   *
+* and international laws. Unauthorized users are       *
+* subject to criminal and civil penalties as well      *
+* as company initiated disciplinary proceedings.       *
+*                                                      *
+* By entry into this system you acknowledge that you   *
+* are authorized access and the level of privilege you *
+* subsequently execute on this system. You further     *
+* acknowledge that by entry into this system you       *
+* expect no privacy from monitoring.                   *
+********************************************************
+
+
+2018-11-01 14:18:28,050 Authentication (password) successful!
+2018-11-01 14:18:32,457 Sending 5 ICMP echoes to 10.4.0.1, timeout = 2 sec.
+!!!!!     
+Success rate = 100% (5/5), round-trip min/avg/max = 13/22/45 ms
+
+2018-11-01 14:18:32,458 Ping ok
+2018-11-01 14:18:32,961 Sending 5 ICMP echoes to 10.23.0.1, timeout = 2 sec.
+!!!!!     
+Success rate = 100% (5/5), round-trip min/avg/max = 2/11/45 ms
+
+2018-11-01 14:18:32,962 Ping ok
+2018-11-01 14:18:43,362 Sending 5 ICMP echoes to 10.178.13.181, timeout = 2 sec.
+.....     
+Success rate = 0% (0/5), round-trip min/avg/max = 0/0/0 ms
+
+2018-11-01 14:18:43,362 Ping not 100%
+2018-11-01 14:18:43,362 Sending file and message to telegram.
+2018-11-01 14:18:49,850 Sending 5 ICMP echoes to 10.42.0.1, timeout = 2 sec.
+!!!!!     
+Success rate = 100% (5/5), round-trip min/avg/max = 16/25/59 ms
+
+2018-11-01 14:18:49,851 Ping ok
+2018-11-01 14:18:50,463 Sending 5 ICMP echoes to 10.65.0.1, timeout = 2 sec.
+!!!!!     
+Success rate = 100% (5/5), round-trip min/avg/max = 3/3/3 ms
+
+2018-11-01 14:18:50,463 Ping ok
+2018-11-01 14:18:51,031 Sending 5 ICMP echoes to 10.90.0.1, timeout = 2 sec.
+!!!!!     
+Success rate = 100% (5/5), round-trip min/avg/max = 7/11/20 ms
+
+2018-11-01 14:18:51,031 Ping ok
